@@ -1,0 +1,87 @@
+body {
+  background-color: rgb(241, 234, 234);
+}
+
+
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+  }
+  p  {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+    border: 10px solid powderblue;
+    padding: 30px;
+    margin: 50px;
+  }
+
+  p.error {
+    color: red;
+    padding: 10px;
+    margin: 50px;
+  }
+
+  #p01 {
+    color: blue;
+    padding: 10px;
+    margin: 50px;
+  }
+
+  p2  {
+    color: tomato;
+    font-family: courier;
+    font-size: 100%;
+    border: 10px solid rgb(111, 195, 206);
+    padding: 10px;
+    margin: 20px;
+  }
+
+
+  a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  img{
+    float:center;width:42px;height:42px;
+
+  }
+
+
+  
+  table{
+    border-spacing: 10px;
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: left;
+    
+  }
+
+
+  
+  
+
